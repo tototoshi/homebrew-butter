@@ -1,7 +1,7 @@
 class Butter < Cask
-  url 'https://github.com/harukasan/butter/releases/download/v0.1.1/Butter_0.1.1.dmg'
+  url 'https://github.com/harukasan/butter/releases/download/v0.1.2/Butter_0.1.2.dmg'
   homepage 'http://harukasan.jp'
-  version '0.1.1'
-  sha256 '09a754564671024b76c3de618166a5a56f19e8ec6231d031d0ef5afbbd4104fa'
+  version '0.1.2'
+  sha256 'cd3bcd0fef51be6ff0c4b8ed1e1cf15ead63408c1a78c9784cf551465c7fe76d'
   link 'Butter.app'
 end
